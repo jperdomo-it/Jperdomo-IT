@@ -65,4 +65,6 @@ Not published yet.
 
 ## Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-perdomo-659864387/)
+
 [Anytng on YouTube](https://www.youtube.com/@Itsanytng) — newly launched channel, just getting started: POV, IRL, cars, tech, and everyday life.
