@@ -1,25 +1,46 @@
-## Hi there 👋
-## I'm Joshua Perdomo 👋
+# Joshua Perdomo
 
-### Google Workspace Migration Specialist & Cloud Infrastructure Consultant
+Hands-on tech in Wilkes-Barre, PA, building toward IT support, field tech, and systems work. I repair and refurbish devices, and I am putting a home lab together so I can practice the systems side on my own hardware.
 
-I help businesses transition to the cloud with zero data loss and minimal downtime. My expertise lies in architecting, managing, and securing Google Workspace environments for scalability and efficiency.
+Spanish (native) · English · Tesla enthusiast
 
----
+## What I do
 
-## 🚀 Expertise
-* **Complex Migrations:** Seamless transitions from Microsoft 365, Exchange, and IMAP to Google Workspace.
-* **Security & Compliance:** Advanced configuration of SPF, DKIM, DMARC, 2FA policies, and Data Loss Prevention (DLP).
-* **Process Automation:** Streamlining admin tasks using GAM (Google Apps Manager), Apps Script, and API integrations.
+I run a small tech repair and resale side business:
 
-## 🛠️ Tech Stack
-* **Cloud Platforms:** Google Workspace Admin Console, Google Cloud Platform (GCP).
-* **Migration Tools:** GWMME, GWMMO, Rclone, CloudM, Bittitan.
-* **Core Protocols:** DNS Management, SMTP, IMAP/POP3, OAuth 2.0.
+- Diagnose and repair laptops and phones — battery and screen replacements, RAM and SSD upgrades, and troubleshooting no-power laptops
+- Refurbish and resell laptops, phones, and retro games
 
-## 📧 Let's Connect
-* **Email:** [jperdomo.it@gmail.com](mailto:jperdomo.it@gmail.com)
-* **LinkedIn:** [Insert your LinkedIn URL here]
+CompTIA A+ material (hardware, networking, Windows, and troubleshooting) is self-study only.
 
----
-*Check out my repositories below for technical playbooks, migration checklists, and automation scripts.*
+Machines I use: ThinkPad X1 Carbon Gen 9, MacBook Pro M1, and a Razer Blade 15. The ThinkPad manages the home lab headless.
+
+## Currently working on
+
+![Home lab in progress](https://img.shields.io/badge/Home_lab-in_progress-D97706?style=flat)
+
+A Lenovo ThinkCentre running Proxmox VE, with a NAS / self-hosted cloud (Nextcloud or OpenMediaVault) and Tailscale for remote access.
+
+Write-up: [homelab](https://github.com/jperdomo-it/homelab) (coming soon).
+
+## Skills
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat) ![macOS](https://img.shields.io/badge/macOS-111111?style=flat&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![Networking basics](https://img.shields.io/badge/Networking_basics-0F766E?style=flat) ![Hardware repair](https://img.shields.io/badge/Hardware_repair-57534E?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+Windows, macOS, Linux, Proxmox, networking basics, hardware repair, and Git.
+
+## Planned repos
+
+Not published yet.
+
+| Repo | Focus |
+| --- | --- |
+| [`homelab`](https://github.com/jperdomo-it/homelab) | Proxmox, storage, and remote-access notes — coming soon |
+| `tech-repair-guides` | Laptop and phone repair notes from the bench |
+| `device-flipping-playbook` | Testing, refurbishing, and reselling devices |
+| `it-support-notes` | Troubleshooting notes for support and field work |
+| `scripts` | Small utilities from the bench and the lab |
+
+## Connect
+
+[Anytng on YouTube](https://www.youtube.com/@Itsanytng) — POV, IRL, cars, tech, and everyday life.
